@@ -1,0 +1,9 @@
+Average Elevator Travel Time for 5 Passengers: 84s
+Average Wait Time for 5 Passengers: 62s
+
+Average Elevator Travel Time for 15 Passengers: 75s
+Average Wait Time for 15 Passengers: 176s
+
+Average Elevator Travel Time for 30 Passengers: 78s
+Average Wait Time for 30 Passengers: 305s
+

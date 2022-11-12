@@ -1,0 +1,7 @@
+1) Look for row and/or columns with number 0.  These do not contain a tent.  Cross these.
+2) Cells too far away from a tree. Cross those.
+3) Cells that are only diagonally connected to a tree. Croos those.
+4) Place a tent on free cells.
+5) Tents cannot connect diagonally, horizontally or visually to another tent. Corss these.
+6) Start over with step 4
+7) Finished whne row/column is complete.

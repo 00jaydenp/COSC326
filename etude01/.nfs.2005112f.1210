@@ -1,0 +1,23 @@
+/*
+ * Etude01 Syllable.java
+ * Cosc326
+ * 5th March 2021
+ * Dray Ambrose, Jayden Prakash, Sean Cartman, Susie Tay
+*/
+import java.util.*;
+ public class Syllable{
+    private static String[] words;
+    
+    private static void getInput(){
+        Scanner scan = new Scanner(System.in);
+        Arraylist<String> input = new Arraylist<String>();
+        while(scan.hasNextLine()){
+            input.add(scan.nextLine());
+        }
+        String[] words = new String[input.size()];
+        words = words.toArray(input); 
+    }
+
+
+ }
+ 
